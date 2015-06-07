@@ -1,0 +1,14 @@
+.video {
+		background:transparent url('../images/ppp.jpg') no-repeat;
+		background-size: 1280px 720px;
+	    text-align:center;
+	    margin: 0 auto;
+	    width:1280px; 
+		height:720px;
+	}
+
+
+video { 
+	width:1280px; 
+	height:720px;
+}
